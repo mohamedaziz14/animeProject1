@@ -380,3 +380,97 @@ ul li a:hover::after {
 	padding: 5px;
 	margin-right: 4px;
 }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #111;
+}
+.likeButton1 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton2 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton3 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton4 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton5 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton6 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.likeButton7 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+.likeCount {
+  margin-left: 10px;
+  font-size: 18px;
+  color: #555;
+}
+.dislikeButton {
+  background-color: #aa0404; /* Change color as needed */
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+#searchBar {
+  padding: 8px;
+  margin-right: 5px; /* Adjust spacing as needed */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#searchButton {
+  padding: 8px 12px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
